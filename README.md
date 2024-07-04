@@ -12,6 +12,7 @@ Here's what you'll find in this repository:
 
 - **Basic Python Scripts**: Simple Python scripts to help you grasp the fundamentals.
 - **Intermediate Code Examples**: More advanced Python code examples to enhance your skills.
+- **Automation Scripts**: Scripts for automating various tasks.
 - **Useful Snippets**: Handy Python code snippets for common tasks and challenges.
 - **Project Examples**: Mini-projects and exercises to apply what you've learned.
 
@@ -21,4 +22,10 @@ Here's what you'll find in this repository:
 
    ```bash
    git clone https://github.com/your-username/PyScript-101.git
-   
+   ```
+
+## Example Scripts
+
+- **Automation Scripts**: Automate various tasks to save time and effort.
+- **Data Processing Scripts**: Scripts for handling and processing data efficiently.
+- **Web Scraping Scripts**: Extract data from websites for analysis and usage.
